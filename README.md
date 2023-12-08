@@ -16,7 +16,7 @@ The program reads a specified text file, counts how often each word appears in t
 
 1. Clone the repository to your local machine.
 2. Ensure you have a C++ compiler installed.
-3. Compile the program using a command like `g++ -o wordcounter wordcounter.cpp`.
+3. Compile the program using a command like `g++ -o main main.cpp`.
 4. Run the program and enter the path to your text file when prompted.
 5. Specify the number of top frequent words you want to see.
 
