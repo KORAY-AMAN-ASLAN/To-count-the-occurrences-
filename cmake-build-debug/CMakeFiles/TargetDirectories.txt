@@ -1,0 +1,3 @@
+C:/Users/amana/CLionProjects/wordcounter/cmake-build-debug/CMakeFiles/wordcounter.dir
+C:/Users/amana/CLionProjects/wordcounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amana/CLionProjects/wordcounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
